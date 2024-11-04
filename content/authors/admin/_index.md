@@ -1,13 +1,11 @@
 ---
 # Display name
-title: 吳健雄
+title: Michael Kagan
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Michael
+last_name: Kagan
 
 # Status emoji
 status:
@@ -20,92 +18,78 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Senior Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: SLAC National Accelerator Laboratory
+    url: https://www.slac.stanford.edu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:makagan@slac.stanford.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/Michael_A_Kagan
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/makagan
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/michael-kagan-06292616/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=KtMij1EAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-3386-6869
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Fundamental Physics
+  - Scientific Machine Learning
+  - Differentiable Programming
+  - Simulation-Based Inference
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Physics
+    institution: Harvard University
+    date_start: 2006
+    date_end: 2012
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Measurement of the WZ Production Cross Section and Limits on Anomalous Triple Gauge Couplings at sqrt(s) = 7 TeV with ATLAS_. Supervised by Masahiro Morii.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_harvard_dspace_oai_dash_harvard_edu_1_10344745'
+  - area: BS Physics and Mathematics
+    institution: University of Michigan
+    date_start: 2001
+    date_end: 2006
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        Thesis on _Search for a Z′-Like Resonance Decaying to tt ̄Pairs in pp ̄Collisions at √s = 1.96 TeV_. Supervised by Dante Amidei.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Senior Scientist
+    company_name: SLAC National Accelerator Laboratory
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Lead Staff Scientist
+    company_name: SLAC National Accelerator Laboratory
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2021
+    date_end: 2024
+  - position: Panofsky Fellow
+    company_name: SLAC National Accelerator Laboratory
+    company_url: ''
+    company_logo: ''
+    date_start: 2016
+    date_end: 2021
+  - position: Postdoctoral Research Associate
+    company_name: SLAC National Accelerator Laboratory
+    company_url: ''
+    company_logo: ''
+    date_start: 2012
+    date_end: 2016
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

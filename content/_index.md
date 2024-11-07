@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-1
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -19,6 +19,8 @@ sections:
       #   text: Download CV
       #   url: uploads/resume.pdf
     design:
+      # banner:
+      #   filename: atlas_bw.jpg
       css_class: light
       background:
         color: white

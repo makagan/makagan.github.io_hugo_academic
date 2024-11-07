@@ -9,6 +9,17 @@ design:
   spacing: "6rem"
 
 sections:
+  - block: hero
+    content:
+      title: |
+        Kagan Group at SLAC
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        
+        Fundamental Physics, Machine Learning, AI for Science.
+        
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)

@@ -7,9 +7,6 @@ title: Michael Kagan
 first_name: Michael
 last_name: Kagan
 
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -125,13 +122,13 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
